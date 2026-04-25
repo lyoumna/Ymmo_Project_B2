@@ -1,0 +1,9 @@
+[submodule "ymmo-data"]
+	path = ymmo-data
+	url = https://github.com/lyoumna/ymmo-data.git
+[submodule "ymmo-frontend"]
+	path = ymmo-frontend
+	url = https://github.com/lyoumna/ymmo-frontend.git
+[submodule "ymmo-backend"]
+	path = ymmo-backend
+	url = https://github.com/lyoumna/ymmo-backend.git
